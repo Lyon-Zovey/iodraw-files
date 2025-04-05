@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="3791AiCpxNvH7_noU0-P-0" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基于Soc和单片机的智慧果园监测系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="281" y="50" width="266" height="160" as="geometry" />
+          <mxGeometry x="281" y="50" width="266" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
