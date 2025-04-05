@@ -45,7 +45,7 @@
           <mxGeometry x="70" y="510" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ws_338k1CQrlPpDp_zCg-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;把推理所得的结果显示在一个Web网站上&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="510" width="60" height="190" as="geometry" />
+          <mxGeometry x="210" y="510" width="60" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
