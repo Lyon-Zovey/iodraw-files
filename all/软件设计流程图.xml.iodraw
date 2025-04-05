@@ -27,7 +27,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFX_k0GEz92D9LLCcXc7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DFX_k0GEz92D9LLCcXc7-0" target="DFX_k0GEz92D9LLCcXc7-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="370" />
+              <mxPoint x="90" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DFX_k0GEz92D9LLCcXc7-0" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;Rock-3c板端&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
@@ -39,7 +44,7 @@
           <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFX_k0GEz92D9LLCcXc7-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="410" width="120" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
