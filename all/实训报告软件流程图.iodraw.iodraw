@@ -63,6 +63,9 @@
         <mxCell id="YOcZy_LuoTLglPLG_EJ7-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;阈值&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-50" y="320" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YOcZy_LuoTLglPLG_EJ7-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;使用主控自带的WIFI功能实现与其他设备进行数据交互&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
