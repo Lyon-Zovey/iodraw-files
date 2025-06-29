@@ -81,6 +81,11 @@
         <mxCell id="YOcZy_LuoTLglPLG_EJ7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YOcZy_LuoTLglPLG_EJ7-22" target="YOcZy_LuoTLglPLG_EJ7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YOcZy_LuoTLglPLG_EJ7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YOcZy_LuoTLglPLG_EJ7-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YOcZy_LuoTLglPLG_EJ7-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否超速&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-595" y="600" width="150" height="90" as="geometry" />
         </mxCell>
