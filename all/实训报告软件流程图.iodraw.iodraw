@@ -23,6 +23,14 @@
         <mxCell id="YOcZy_LuoTLglPLG_EJ7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YOcZy_LuoTLglPLG_EJ7-4" target="YOcZy_LuoTLglPLG_EJ7-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YOcZy_LuoTLglPLG_EJ7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YOcZy_LuoTLglPLG_EJ7-4" target="YOcZy_LuoTLglPLG_EJ7-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="385" />
+              <mxPoint x="360" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YOcZy_LuoTLglPLG_EJ7-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;监测自行车速度是否到达阈值&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="121.25" y="310" width="197.5" height="150" as="geometry" />
         </mxCell>
