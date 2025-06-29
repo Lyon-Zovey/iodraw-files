@@ -23,6 +23,9 @@
         <mxCell id="YOcZy_LuoTLglPLG_EJ7-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;监测自行车速度是否到达阈值&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="121.25" y="310" width="197.5" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="YOcZy_LuoTLglPLG_EJ7-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
