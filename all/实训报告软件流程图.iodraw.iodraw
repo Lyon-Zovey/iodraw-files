@@ -46,7 +46,7 @@
         <mxCell id="YOcZy_LuoTLglPLG_EJ7-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YOcZy_LuoTLglPLG_EJ7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YOcZy_LuoTLglPLG_EJ7-12" value="使用外部中断来检测按钮状态，用于调节超速阈值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="200" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
